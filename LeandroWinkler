@@ -1,0 +1,7 @@
+const calc = (n1, n2) => {
+console.log(`Resultados
+     Adição: ${25} + ${30} = ${25 + 30}
+     Subtração: ${25} - ${30} = ${25 - 30}
+     Multiplicação: ${25} * ${30} = ${25 * 30}
+     Divisão: ${25} / ${30} = ${25 / 30`)
+     }
